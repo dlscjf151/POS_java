@@ -1,0 +1,4 @@
+가위	9	1000	0	Non-Food
+담배	14	4500	1	Non-Food
+연필	10	500	0	Non-Food
+지우개	10	500	0	Non-Food
